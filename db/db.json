@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"Test Title","text":"Test text"},{"title":"New note","text":"note text","id":"1"},{"title":"testing note","text":"asdfasdfsaddf","id":"2"},{"title":"new new new note","text":":)","id":"3"},{"title":"i'm making a new note","text":"does it work?","id":"4"},{"title":"time for another note","text":"is it a note?","id":"5"},{"title":"testing123","text":"12345","id":"6"},{"title":"123456","text":"numbers are cool","id":"7"},{"title":"this is a note","text":"this is the text of the note","id":"8"},{"title":"do it again","text":"asdfasdfasdf","id":"9"},{"title":"a noooooote","text":"noooooooooooooooooooooo","id":"10"},{"title":"but does this work","text":"yes or no?","id":"11"}]
